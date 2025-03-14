@@ -1,0 +1,9 @@
+# Bật mod_rewrite
+RewriteEngine On
+
+# Thay đổi phần mở rộng .php thành không có phần mở rộng
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+ErrorDocument 404 /404.php
