@@ -1,25 +1,25 @@
 <?php
 $pageTitle = 'Khoá Luyện Giải Đề Kỳ Kiểm Tra Kết Quả Tập Sự Hành Nghề Luật Sư 2025 - TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT';
-include '../includes/head.php';
+include './../includes/head.php';
 ?>
 
-<?php include '../includes/header.php'; ?>
+<?php include './../includes/header.php'; ?>
 
 <div id="wrap_block_2">
   <?php
-  include '../includes/navbar.php';
+  include './../includes/navbar.php';
   ?>
 </div>
 
 <?php
-$img = 'https://boiduongtuvanluat.com/img/tin-tuc.jpg';
-include '../includes/banner.php';
+$img = './../img/tin-tuc.jpg';
+include './../includes/banner.php';
 ?>
 
 <?php
 $lever1 = 'Tin Tức';
 $lever2 = 'Khoá Luyện Giải Đề Kỳ Kiểm Tra Kết Quả Tập Sự Hành Nghề Luật Sư 2025';
-include '../includes/breadcrumbs.php';
+include './../includes/breadcrumbs.php';
 ?>
 
 <div id="wrap_block_article" class="wow fadeInUp">
@@ -30,7 +30,7 @@ include '../includes/breadcrumbs.php';
 
       <br>
 
-      <div><img src="https://boiduongtuvanluat.com/tin-tuc/img/luyen-giai-de-ky-kiem-tra-ket-qua-tap-su-hanh-nghe-luat-su-2025.jpg" alt="Khoá Luyện Giải Đề Kỳ Kiểm Tra Kết Quả Tập Sự Hành Nghề Luật Sư 2025" style="width: 100%;"></div>
+      <div><img src="img/luyen-giai-de-ky-kiem-tra-ket-qua-tap-su-hanh-nghe-luat-su-2025.jpg" alt="Khoá Luyện Giải Đề Kỳ Kiểm Tra Kết Quả Tập Sự Hành Nghề Luật Sư 2025" style="width: 100%;"></div>
 
       <br>
 
@@ -64,11 +64,11 @@ include '../includes/breadcrumbs.php';
 
     </div>
     <div id="content_right" class="kmt_orange kmt_border col-sticky col-lg-3 col-xs-12">
-      <?php include '../includes/news.php'; ?>
+      <?php include './../includes/news.php'; ?>
     </div>
   </div>
 </div>
 
 <?php
-include '../includes/footer.php';
+include './../includes/footer.php';
 ?>

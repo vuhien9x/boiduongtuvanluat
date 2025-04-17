@@ -1,25 +1,25 @@
 <?php
 $pageTitle = 'Pháp Luật Tài Chính Và Kế Toán - TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT';
-include '../includes/head.php';
+include './../includes/head.php';
 ?>
 
-<?php include '../includes/header.php'; ?>
+<?php include './../includes/header.php'; ?>
 
 <div id="wrap_block_2">
   <?php
-  include '../includes/navbar.php';
+  include './../includes/navbar.php';
   ?>
 </div>
 
 <?php
-$img = 'https://boiduongtuvanluat.com/img/khoa_hoc_phap_luat.jpg';
-include '../includes/banner.php';
+$img = './../img/khoa_hoc_phap_luat.jpg';
+include './../includes/banner.php';
 ?>
 
 <?php
 $lever1 = 'Khoá học pháp luật';
 $lever2 = 'Pháp Luật Tài Chính Và Kế Toán';
-include '../includes/breadcrumbs.php';
+include './../includes/breadcrumbs.php';
 ?>
 
 <div id="wrap_block_article" class="wow fadeInUp">
@@ -29,7 +29,7 @@ include '../includes/breadcrumbs.php';
 
       <br>
 
-      <div><img src="https://boiduongtuvanluat.com/khoa-hoc-phap-luat/img/phap-luat-tai-chinh-va-ke-toan.jpg" alt="" style="width: 100%;"></div>
+      <div><img src="img/phap-luat-tai-chinh-va-ke-toan.jpg" alt="" style="width: 100%;"></div>
 
       <br>
 
@@ -59,14 +59,14 @@ include '../includes/breadcrumbs.php';
 
       <br>
 
-      <?php include '../includes/support.php'; ?>
+      <?php include './../includes/support.php'; ?>
     </div>
     <div id="content_right" class="kmt_orange kmt_border col-sticky col-lg-3 col-xs-12">
-      <?php include '../includes/news.php'; ?>
+      <?php include './../includes/news.php'; ?>
     </div>
   </div>
 </div>
 
 <?php
-include '../includes/footer.php';
+include './../includes/footer.php';
 ?>

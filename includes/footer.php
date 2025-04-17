@@ -6,17 +6,52 @@
       <div class="owl_partner owl-carousel owl-theme">
         <div class="wrap_partner">
           <a style="pointer-events: none" href="" target="_blank">
-            <img src="https://boiduongtuvanluat.com/img/doi-tac/cm_1.jpg" alt="customer 1" title="customer 1" />
+            <img src="../img/doi-tac/cm_1.jpg" alt="customer 1" title="customer 1" />
           </a>
         </div>
         <div class="wrap_partner">
           <a style="pointer-events: none" href="" target="_blank">
-            <img src="https://boiduongtuvanluat.com/img/doi-tac/cm_2.jpg" alt="customer 2" title="customer 2" />
+            <img src="../img/doi-tac/cm_2.jpg" alt="customer 2" title="customer 2" />
           </a>
         </div>
         <div class="wrap_partner">
           <a style="pointer-events: none" href="" target="_blank">
-            <img src="https://boiduongtuvanluat.com/img/doi-tac/cm_3.jpg" alt="customer 3" title="customer 3" />
+            <img src="../img/doi-tac/cm_3.jpg" alt="customer 3" title="customer 3" />
+          </a>
+        </div>
+        <div class="wrap_partner">
+          <a style="pointer-events: none" href="" target="_blank">
+            <img src="../img/doi-tac/cm_4.jpg" alt="customer 4" title="customer 4" />
+          </a>
+        </div>
+        <div class="wrap_partner">
+          <a style="pointer-events: none" href="" target="_blank">
+            <img src="../img/doi-tac/cm_5.jpg" alt="customer 5" title="customer 5" />
+          </a>
+        </div>
+        <div class="wrap_partner">
+          <a style="pointer-events: none" href="" target="_blank">
+            <img src="../img/doi-tac/cm_6.jpg" alt="customer 6" title="customer 6" />
+          </a>
+        </div>
+        <div class="wrap_partner">
+          <a style="pointer-events: none" href="" target="_blank">
+            <img src="../img/doi-tac/cm_7.jpg" alt="customer 7" title="customer 7" />
+          </a>
+        </div>
+        <div class="wrap_partner">
+          <a style="pointer-events: none" href="" target="_blank">
+            <img src="../img/doi-tac/cm_8.jpg" alt="customer 8" title="customer 8" />
+          </a>
+        </div>
+        <div class="wrap_partner">
+          <a style="pointer-events: none" href="" target="_blank">
+            <img src="../img/doi-tac/cm_9.jpg" alt="customer 9" title="customer 9" />
+          </a>
+        </div>
+        <div class="wrap_partner">
+          <a style="pointer-events: none" href="" target="_blank">
+            <img src="../img/doi-tac/cm_10.jpg" alt="customer 10" title="customer 10" />
           </a>
         </div>
       </div>
@@ -73,7 +108,7 @@
           <p>🏠 Số 3A đường Đồng Nai, Phường 2, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam</p>
           <p>📱 079.72.99078</p>
           <p>📧 lawtrainingcourses@gmail.com</p>
-          <p>🌐 https://boiduongtuvanluat.com/</p>
+          <p>🌐 boiduongtuvanluat.com</p>
         </div>
       </div>
       <div class="col-lg-4 col-xs-12 footer_right">
@@ -88,17 +123,17 @@
           <h3 class="footer_title">FOLLOW US</h3>
           <div class="wrap_social">
             <a href="https://www.facebook.com/profile.php?id=61570886860950" target="_blank"><img
-                src="https://boiduongtuvanluat.com/img/icon_facebook.png" alt="Facebook"></a>
-            <a href="" target="_blank"><img src="https://boiduongtuvanluat.com/img/icon_twitter.png" alt="Twitter"></a>
-            <a href="" target="_blank"><img src="https://boiduongtuvanluat.com/img/icon_youtube.png" alt="Youtube"></a>
-            <a href="" target="_blank"><img src="https://boiduongtuvanluat.com/img/icon_instagram.png" alt="Instagram"></a>
+                src="../img/icon_facebook.png" alt="Facebook"></a>
+            <a href="" target="_blank"><img src="../img/icon_twitter.png" alt="Twitter"></a>
+            <a href="" target="_blank"><img src="../img/icon_youtube.png" alt="Youtube"></a>
+            <a href="" target="_blank"><img src="../img/icon_instagram.png" alt="Instagram"></a>
           </div>
         </div>
       </div>
     </div>
   </div>
   <div class="col-sm-2 col-xs-3 return_top">
-    <a id="top"><img src="https://boiduongtuvanluat.com/img/btt.png" alt="Lên đầu trang" title="Lên đầu trang" /></a>
+    <a id="top"><img src="../img/btt.png" alt="Lên đầu trang" title="Lên đầu trang" /></a>
   </div>
 </div>
 <!-- End wrap_footer -->
@@ -131,7 +166,7 @@
   </div>
 </div>
 <a href="https://zalo.me/0797299078" class="zalo-fix" target="_blank">
-  <img src="https://boiduongtuvanluat.com/img/zalo-icon.png" width="65" />
+  <img src="../img/zalo-icon.png" width="65" />
 </a>
 
 <script>
@@ -147,12 +182,12 @@
   var lang = 'vi';
 </script>
 
-<script src="https://boiduongtuvanluat.com/js/bootstrap.min.js" type="text/javascript"></script>
-<link rel="stylesheet" href="https://boiduongtuvanluat.com/css/lib/owl.carousel.css" />
-<link rel="stylesheet" href="https://boiduongtuvanluat.com/css/lib/owl.transitions.css" />
-<script src="https://boiduongtuvanluat.com/js/lib/owl.carousel.js"></script>
-<script src="https://boiduongtuvanluat.com/js/lib/owl.autoplay.js"></script>
-<script src="https://boiduongtuvanluat.com/js/lib/owl.navigation.js"></script>
-<script src="https://boiduongtuvanluat.com/js/responsiveslides.min.js" type="text/javascript"></script>
-<script src="https://boiduongtuvanluat.com/js/lib/wow.js"></script>
-<script src="https://boiduongtuvanluat.com/js/kmt_script.js"></script>
+<script src="../js/bootstrap.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="../css/lib/owl.carousel.css" />
+<link rel="stylesheet" href="../css/lib/owl.transitions.css" />
+<script src="../js/lib/owl.carousel.js"></script>
+<script src="../js/lib/owl.autoplay.js"></script>
+<script src="../js/lib/owl.navigation.js"></script>
+<script src="../js/responsiveslides.min.js" type="text/javascript"></script>
+<script src="../js/lib/wow.js"></script>
+<script src="../js/kmt_script.js"></script>

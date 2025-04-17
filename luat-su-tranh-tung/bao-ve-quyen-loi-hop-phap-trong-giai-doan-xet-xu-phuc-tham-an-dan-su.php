@@ -1,25 +1,25 @@
 <?php
 $pageTitle = 'Bảo Vệ Quyền Lợi Hợp Pháp Trong Giai Đoạn Xét Xử Phúc Thẩm Án Dân Sự - TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT';
-include '../includes/head.php';
+include './../includes/head.php';
 ?>
 
-<?php include '../includes/header.php'; ?>
+<?php include './../includes/header.php'; ?>
 
 <div id="wrap_block_2">
       <?php
-      include '../includes/navbar.php';
+      include './../includes/navbar.php';
       ?>
 </div>
 
 <?php
-$img = 'https://boiduongtuvanluat.com/img/luat-su-tranh-tung.jpg';
-include '../includes/banner.php';
+$img = './../img/luat-su-tranh-tung.jpg';
+include './../includes/banner.php';
 ?>
 
 <?php
 $lever1 = 'Luật Sư Tranh Tụng';
 $lever2 = 'Bảo Vệ Quyền Lợi Hợp Pháp Trong Giai Đoạn Xét Xử Phúc Thẩm Án Dân Sự';
-include '../includes/breadcrumbs.php';
+include './../includes/breadcrumbs.php';
 ?>
 
 <div id="wrap_block_article" class="wow fadeInUp">
@@ -29,7 +29,7 @@ include '../includes/breadcrumbs.php';
 
                   <br>
 
-                  <div><img src="https://boiduongtuvanluat.com/luat-su-tranh-tung/img/bao-ve-quyen-loi-hop-phap-trong-giai-doan-xet-xu-phuc-tham-an-dan-su.jpg" alt="" style="width: 100%;"></div>
+                  <div><img src="img/bao-ve-quyen-loi-hop-phap-trong-giai-doan-xet-xu-phuc-tham-an-dan-su.jpg" alt="" style="width: 100%;"></div>
 
                   <br>
 
@@ -237,7 +237,7 @@ line-height:115%'> 079.72.99078</span></p>
 
                   <p class=MsoNormal><span style='font-size:11.0pt;line-height:115%;font-family:
 "Segoe UI Emoji",sans-serif'>&#127760;</span><span style='font-size:11.0pt;
-line-height:115%'> </span><a href="https://boiduongtuvanluat.com/"><span
+line-height:115%'> </span><a href="/"><span
                                     style='font-size:11.0pt;line-height:115%'>https://boiduongtuvanluat.com/</span></a></p>
 
                   <p class=MsoNormal>&nbsp;</p>
@@ -245,14 +245,14 @@ line-height:115%'> </span><a href="https://boiduongtuvanluat.com/"><span
 
                   <br>
 
-                  <?php include '../includes/support.php'; ?>
+                  <?php include './../includes/support.php'; ?>
             </div>
             <div id="content_right" class="kmt_orange kmt_border col-sticky col-lg-3 col-xs-12">
-                  <?php include '../includes/news.php'; ?>
+                  <?php include './../includes/news.php'; ?>
             </div>
       </div>
 </div>
 
 <?php
-include '../includes/footer.php';
+include './../includes/footer.php';
 ?>

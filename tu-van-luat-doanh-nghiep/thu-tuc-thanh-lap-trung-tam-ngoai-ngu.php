@@ -2,7 +2,7 @@
 $pageTitle = 'Thủ tục thành lập trung tâm ngoại ngữ - TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT';
 // Bắt đầu ghi lại nội dung
 ob_start();
-include '../includes/navbar.php';
+include './../includes/navbar.php';
 $navbar = ob_get_clean();
 include 'menu.php';
 $menu = ob_get_clean();
@@ -17,7 +17,7 @@ $pageContent = '
   <div class="callbacks">
     <ul class="rslides" id="slider4">
       <li>
-        <a href=""><img src="https://boiduongtuvanluat.com/img/banner_intro.jpg" alt="Banner trang intro"
+        <a href=""><img src="./../img/banner_intro.jpg" alt="Banner trang intro"
             title="Banner trang intro" /></a>
       </li>
     </ul>
@@ -222,8 +222,8 @@ $pageContent = '
 
 <div id="support_div" class="row">
   <div class="contact_info col-lg-6 col-xs-12">
-    <a href="https://boiduongtuvanluat.com/lien-he">
-      <div><img src="/img/person_advise.png" alt=""></div>
+    <a href="/lien-he">
+      <div><img src="./../img/person_advise.png" alt=""></div>
       <div>
         <p>LIÊN HỆ TƯ VẤN</p>
         <p>Chúng tôi sẽ tư vấn cho bạn</p>
@@ -232,7 +232,7 @@ $pageContent = '
   </div>
   <div class="hotline_info col-lg-6 col-xs-12">
     <a href="tel:0797299078">
-      <div><img src="https://boiduongtuvanluat.com/img/big_tel.png" alt=""></div>
+      <div><img src="./../img/big_tel.png" alt=""></div>
       <div>
         <p>079.72.99078</p>
         <p>Gọi cho chúng tôi để được phục vụ</p>
@@ -243,4 +243,4 @@ $pageContent = '
 
 ';
 
-include '../layouts/master_layout.php';
+include './../layouts/master_layout.php';

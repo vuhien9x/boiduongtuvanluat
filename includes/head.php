@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="vi" lang="vi">
 
 <head>
-  <link rel="icon" href="https://boiduongtuvanluat.com/img/favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="../img/favicon.ico" type="image/x-icon" />
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <title><?php echo $pageTitle; ?></title>
@@ -18,15 +18,15 @@
   <meta property="og:image" content="/img/logo.png" />
   <meta property="og:image:width" content="236" />
   <meta property="og:image:height" content="66" />
-  <meta property="og:url" content="https://boiduongtuvanluat.com/" />
+  <meta property="og:url" content="" />
   <meta property="og:site_name" content="TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT" />
-  <link href="https://boiduongtuvanluat.com/css/bootstrap.min.css" rel="stylesheet" />
-  <link href="https://boiduongtuvanluat.com/css/mb_styles.css" rel="stylesheet" />
-  <link href="https://boiduongtuvanluat.com/css/slideshow.css" rel="stylesheet" />
-  <link href="https://boiduongtuvanluat.com/css/minimal-menu.css" rel="stylesheet" />
-  <link href="https://boiduongtuvanluat.com/css/animate.css" rel="stylesheet" />
+  <link href="../css/bootstrap.min.css" rel="stylesheet" />
+  <link href="../css/mb_styles.css" rel="stylesheet" />
+  <link href="../css/slideshow.css" rel="stylesheet" />
+  <link href="../css/minimal-menu.css" rel="stylesheet" />
+  <link href="../css/animate.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
-  <link href="https://boiduongtuvanluat.com/css/mb_kmt_styles.css" rel="stylesheet" />
+  <link href="../css/mb_kmt_styles.css" rel="stylesheet" />
   <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 
   <div id="fb-root"></div>

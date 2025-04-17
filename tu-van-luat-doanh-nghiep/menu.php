@@ -1,12 +1,12 @@
 <div class="container info_div row">
   <div class="col-lg-4 col-xs-12 image_avatar">
-    <img src="https://boiduongtuvanluat.com/img/litigation_phuoc_associates.jpg" alt="image_symbol">
+    <img src="./../img/litigation_phuoc_associates.jpg" alt="image_symbol">
   </div>
   <div class="col-lg-8 col-xs-12 title_name">
     <div class="col-lg-6">
       <div class="col-lg-12 wrap_title_name">
         <div class="block_title_name ">
-          <a href="thanh-lap-cong-ty-tnhh-hai-thanh-vien"
+          <a href="<?php echo BASE_URL; ?>tu-van-luat-doanh-nghiep/thanh-lap-cong-ty-tnhh-hai-thanh-vien"
             title="Thủ tục, hồ sơ đăng ký thành lập công ty TNHH hai thành viên trở lên"><i
               class="fa fa-arrow-right"></i>Thành lập cty TNHH hai thành viên trở lên</a>
         </div>

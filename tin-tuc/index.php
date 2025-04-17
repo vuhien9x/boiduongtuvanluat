@@ -1,18 +1,18 @@
 <?php
 $pageTitle = 'Tin Tức - TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT';
-include '../includes/head.php';
+include './../includes/head.php';
 ?>
-<?php include '../includes/header.php'; ?>
+<?php include './../includes/header.php'; ?>
 <!-- Begin wrap_block_2 -->
 <div id="wrap_block_2">
   <?php
-  include '../includes/navbar.php';
+  include './../includes/navbar.php';
   ?>
 </div>
 
 <?php
-$img = 'https://boiduongtuvanluat.com/img/tin-tuc.jpg';
-include '../includes/banner.php';
+$img = './../img/tin-tuc.jpg';
+include './../includes/banner.php';
 ?>
 
 <div id="breadcrumbs">
@@ -37,7 +37,7 @@ include '../includes/banner.php';
                 <div class="block_item" style="width: 880px; height: 414px;">
                   <div class="img_item" style="width: 880px; height: 414px;">
                     <a href="luyen-giai-de-ky-kiem-tra-ket-qua-tap-su-hanh-nghe-luat-su-2025">
-                      <img src="https://boiduongtuvanluat.com/tin-tuc/img/luyen-giai-de-ky-kiem-tra-ket-qua-tap-su-hanh-nghe-luat-su-2025.jpg"
+                      <img src="img/luyen-giai-de-ky-kiem-tra-ket-qua-tap-su-hanh-nghe-luat-su-2025.jpg"
                         title="Luyện Giải Đề Kỳ Kiểm Tra Kết Quả Tập Sự Hành Nghề Luật Sư 2025"
                         alt="Luyện Giải Đề Kỳ Kiểm Tra Kết Quả Tập Sự Hành Nghề Luật Sư 2025"
                         style="width: 880px; height: 414px;" /></a>
@@ -56,7 +56,7 @@ include '../includes/banner.php';
               <div class="col-lg-4 col-md-4 col-xs-6 wrap_item">
                 <div class="block_item">
                   <div class="img_item">
-                    <a href="8-kinh-nghiem-on-thi-luat-su"><img src="https://boiduongtuvanluat.com/tin-tuc/img/8-kinh-nghiem-on-thi-luat-su.jpg"
+                    <a href="8-kinh-nghiem-on-thi-luat-su"><img src="img/8-kinh-nghiem-on-thi-luat-su.jpg"
                         title="8 KINH NGHIỆM ÔN THI LUẬT SƯ"
                         alt="8 KINH NGHIỆM ÔN THI LUẬT SƯ" /></a>
                   </div>
@@ -69,7 +69,7 @@ include '../includes/banner.php';
               <div class="col-lg-4 col-md-4 col-xs-6 wrap_item">
                 <div class="block_item">
                   <div class="img_item">
-                    <a href="08-luat-moi-co-hieu-luc-ap-dung-tu-ngay-01012025"><img src="https://boiduongtuvanluat.com/tin-tuc/img/08-luat-moi-co-hieu-luc-ap-dung-tu-ngay-01012025.jpg"
+                    <a href="08-luat-moi-co-hieu-luc-ap-dung-tu-ngay-01012025"><img src="img/08-luat-moi-co-hieu-luc-ap-dung-tu-ngay-01012025.jpg"
                         title="08 Luật mới có hiệu lực áp dụng từ ngày 01/01/2025"
                         alt="08 Luật mới có hiệu lực áp dụng từ ngày 01/01/2025" /></a>
                   </div>
@@ -82,7 +82,7 @@ include '../includes/banner.php';
               <div class="col-lg-4 col-md-4 col-xs-6 wrap_item">
                 <div class="block_item">
                   <div class="img_item">
-                    <a href="toan-bo-muc-phat-vi-pham-giao-thong-voi-nguoi-di-xe-may"><img src="https://boiduongtuvanluat.com/tin-tuc/img/toan-bo-muc-phat-vi-pham-giao-thong-voi-nguoi-di-xe-may.jpg"
+                    <a href="toan-bo-muc-phat-vi-pham-giao-thong-voi-nguoi-di-xe-may"><img src="img/toan-bo-muc-phat-vi-pham-giao-thong-voi-nguoi-di-xe-may.jpg"
                         title="Toàn bộ mức phạt vi phạm vi phạm giao thông với người đi xe máy"
                         alt="Toàn bộ mức phạt vi phạm vi phạm giao thông với người đi xe máy" /></a>
                   </div>
@@ -96,7 +96,7 @@ include '../includes/banner.php';
               <div class="col-lg-4 col-md-4 col-xs-6 wrap_item">
                 <div class="block_item">
                   <div class="img_item">
-                    <a href="thien-minh-duc-kinh-doanh-ra-sao-truoc-khi-chu-tich-bi-bat"><img src="https://boiduongtuvanluat.com/tin-tuc/img/thien-minh-duc-kinh-doanh-ra-sao-truoc-khi-chu-tich-bi-bat.jpg"
+                    <a href="thien-minh-duc-kinh-doanh-ra-sao-truoc-khi-chu-tich-bi-bat"><img src="img/thien-minh-duc-kinh-doanh-ra-sao-truoc-khi-chu-tich-bi-bat.jpg"
                         title="Thiên Minh Đức kinh doanh ra sao trước khi Chủ tịch bị bắt?"
                         alt="Thiên Minh Đức kinh doanh ra sao trước khi Chủ tịch bị bắt?" /></a>
                   </div>
@@ -110,7 +110,7 @@ include '../includes/banner.php';
               <div class="col-lg-4 col-md-4 col-xs-6 wrap_item">
                 <div class="block_item">
                   <div class="img_item">
-                    <a href="dai-gia-nguyen-cao-tri-phai-tra-hon-1000-ty-dong-trong-vu-an-sai-gon-dai-ninh"><img src="https://boiduongtuvanluat.com/tin-tuc/img/dai-gia-nguyen-cao-tri-phai-tra-hon-1000-ty-dong-trong-vu-an-sai-gon-dai-ninh.jpg"
+                    <a href="dai-gia-nguyen-cao-tri-phai-tra-hon-1000-ty-dong-trong-vu-an-sai-gon-dai-ninh"><img src="img/dai-gia-nguyen-cao-tri-phai-tra-hon-1000-ty-dong-trong-vu-an-sai-gon-dai-ninh.jpg"
                         title="Đại gia Nguyễn Cao Trí phải trả hơn 1.000 tỷ đồng trong vụ án Sài Gòn Đại Ninh"
                         alt="Đại gia Nguyễn Cao Trí phải trả hơn 1.000 tỷ đồng trong vụ án Sài Gòn Đại Ninh" /></a>
                   </div>
@@ -124,7 +124,7 @@ include '../includes/banner.php';
               <div class="col-lg-4 col-md-4 col-xs-6 wrap_item">
                 <div class="block_item">
                   <div class="img_item">
-                    <a href="luat-thue-gtgt-chinh-thuc-co-hieu-luc-tu-0172025"><img src="https://boiduongtuvanluat.com/tin-tuc/img/luat-thue-gtgt-chinh-thuc-co-hieu-luc-tu-0172025.jpg"
+                    <a href="luat-thue-gtgt-chinh-thuc-co-hieu-luc-tu-0172025"><img src="img/luat-thue-gtgt-chinh-thuc-co-hieu-luc-tu-0172025.jpg"
                         title="Luật Thuế GTGT chính thức có hiệu lực từ 01/7/2025"
                         alt="Luật Thuế GTGT chính thức có hiệu lực từ 01/7/2025" /></a>
                   </div>
@@ -137,7 +137,7 @@ include '../includes/banner.php';
               <!-- <div class="col-lg-4 col-md-4 col-xs-6 wrap_item">
                 <div class="block_item">
                   <div class="img_item">
-                    <a href="slug"><img src="https://boiduongtuvanluat.com/tin-tuc/img/slug.jpg"
+                    <a href="slug"><img src="img/slug.jpg"
                         title="Content"
                         alt="Content" /></a>
                   </div>
@@ -152,8 +152,8 @@ include '../includes/banner.php';
       </div>
       <div id="support_div" class="row">
         <div class="contact_info col-lg-6 col-xs-12">
-          <a href="https://boiduongtuvanluat.com/lien-he">
-            <div><img src="https://boiduongtuvanluat.com/img/person_advise.png" alt=""></div>
+          <a href="/lien-he">
+            <div><img src="./../img/person_advise.png" alt=""></div>
             <div>
               <p>LIÊN HỆ TƯ VẤN</p>
               <p>Chúng tôi sẽ tư vấn cho bạn</p>
@@ -162,7 +162,7 @@ include '../includes/banner.php';
         </div>
         <div class="hotline_info col-lg-6 col-xs-12">
           <a href="tel:0797299078">
-            <div><img src="https://boiduongtuvanluat.com/img/big_tel.png" alt=""></div>
+            <div><img src="./../img/big_tel.png" alt=""></div>
             <div>
               <p>079.72.99078</p>
               <p>Gọi cho chúng tôi để được phục vụ</p>
@@ -172,11 +172,11 @@ include '../includes/banner.php';
       </div>
     </div>
     <div id="content_right" class="kmt_orange kmt_border col-sticky col-lg-3 col-xs-12">
-      <?php include '../includes/news.php'; ?>
+      <?php include './../includes/news.php'; ?>
     </div>
   </div>
 </div>
 
 <?php
-include '../includes/footer.php';
+include './../includes/footer.php';
 ?>

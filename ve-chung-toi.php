@@ -11,7 +11,7 @@ include './includes/head.php';
 </div>
 
 <?php
-$img = 'https://boiduongtuvanluat.com/img/gioi-thieu.jpg';
+$img = 'img/gioi-thieu.jpg';
 include './includes/banner.php';
 ?>
 
@@ -32,7 +32,7 @@ include './includes/breadcrumbs.php';
           <p>BLT là một trung tâm đào tạo và tư vấn, được thành lập bởi đội ngũ các Luật sư và chuyên gia pháp lý đầy
             nhiệt huyết, có đạo đức nghề nghiệp, uy tín trên toàn quốc.</p>
           <br>
-          <p style="text-align:center"><img alt="" src="https://boiduongtuvanluat.com/img/gioi-thieu.jpg"
+          <p style="text-align:center"><img alt="" src="img/gioi-thieu.jpg"
               style="height:512px; width:870px" /></p>
           <br>
           <p>Trong bối cảnh nền kinh tế đầy biến động, việc trang bị kiến thức, phát triển chuyên môn cho mỗi nhân sự là

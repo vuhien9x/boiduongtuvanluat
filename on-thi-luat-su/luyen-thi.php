@@ -1,16 +1,16 @@
 <?php
 $pageTitle = 'Luyện Thi - TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT';
-include '../includes/head.php';
+include './../includes/head.php';
 ?>
-<?php include '../includes/header.php'; ?>
+<?php include './../includes/header.php'; ?>
 <!-- Begin wrap_block_2 -->
 <div id="wrap_block_2">
   <?php
-  include '../includes/navbar.php';
+  include './../includes/navbar.php';
   ?>
   <div class="container info_div row">
     <div class="col-lg-4 col-xs-12 image_avatar">
-      <img src="https://boiduongtuvanluat.com/on-thi-luat-su/img/on-thi-luat-su.jpg" alt="Ôn Thi Luật Sư">
+      <img src="img/on-thi-luat-su.jpg" alt="Ôn Thi Luật Sư">
     </div>
     <div class="col-lg-8 col-xs-12 title_name">
       <div class="col-lg-6">
@@ -29,15 +29,15 @@ include '../includes/head.php';
 </div>
 
 <?php
-$img = 'https://boiduongtuvanluat.com/img/on_thi_luat_su.jpg';
-include '../includes/banner.php';
+$img = './../img/on_thi_luat_su.jpg';
+include './../includes/banner.php';
 ?>
 
 
 <?php
 $lever1 = 'Ôn Thi Luật sư';
 $lever2 = 'Luyện Thi';
-include '../includes/breadcrumbs.php';
+include './../includes/breadcrumbs.php';
 ?>
 
 <div id="wrap_block_article" class="wow fadeInUp">
@@ -205,8 +205,8 @@ include '../includes/breadcrumbs.php';
       </div>
       <div id="support_div" class="row">
         <div class="contact_info col-lg-6 col-xs-12">
-          <a href="https://boiduongtuvanluat.com/lien-he">
-            <div><img src="https://boiduongtuvanluat.com/img/person_advise.png" alt=""></div>
+          <a href="/lien-he">
+            <div><img src="./../img/person_advise.png" alt=""></div>
             <div>
               <p>LIÊN HỆ TƯ VẤN</p>
               <p>Chúng tôi sẽ tư vấn cho bạn</p>
@@ -215,7 +215,7 @@ include '../includes/breadcrumbs.php';
         </div>
         <div class="hotline_info col-lg-6 col-xs-12">
           <a href="tel:0797299078">
-            <div><img src="https://boiduongtuvanluat.com/img/big_tel.png" alt=""></div>
+            <div><img src="./../img/big_tel.png" alt=""></div>
             <div>
               <p>079.72.99078</p>
               <p>Gọi cho chúng tôi để được phục vụ</p>
@@ -225,11 +225,11 @@ include '../includes/breadcrumbs.php';
       </div>
     </div>
     <div id="content_right" class="kmt_orange kmt_border col-sticky col-lg-3 col-xs-12">
-      <?php include '../includes/news.php'; ?>
+      <?php include './../includes/news.php'; ?>
     </div>
   </div>
 </div>
 
 <?php
-include '../includes/footer.php';
+include './../includes/footer.php';
 ?>

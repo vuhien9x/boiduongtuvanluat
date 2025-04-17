@@ -2,7 +2,7 @@
 <!-- Begin wrap_block_2 -->
 <div class="container menu_div row">
   <div class="col-lg-1 col-xs-12 wrap_logo">
-    <a href="/"><img src="https://boiduongtuvanluat.com/img/logo.jpg" title="TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT"
+    <a href="/"><img src="./../img/logo.jpg" title="TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT"
         alt="TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT" /></a>
   </div>
   <div class="col-lg-12 col-xs-12 wrap_menu">

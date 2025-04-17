@@ -1,25 +1,25 @@
 <?php
 $pageTitle = 'Tư Vấn Luật Trong Giai Đoạn Thi Hành Án Dân Sự - TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT';
-include '../includes/head.php';
+include './../includes/head.php';
 ?>
 
-<?php include '../includes/header.php'; ?>
+<?php include './../includes/header.php'; ?>
 
 <div id="wrap_block_2">
   <?php
-  include '../includes/navbar.php';
+  include './../includes/navbar.php';
   ?>
 </div>
 
 <?php
-$img = 'https://boiduongtuvanluat.com/img/luat-su-tranh-tung.jpg';
-include '../includes/banner.php';
+$img = './../img/luat-su-tranh-tung.jpg';
+include './../includes/banner.php';
 ?>
 
 <?php
 $lever1 = 'Luật Sư Tranh Tụng';
 $lever2 = 'Tư Vấn Luật Trong Giai Đoạn Thi Hành Án Dân Sự';
-include '../includes/breadcrumbs.php';
+include './../includes/breadcrumbs.php';
 ?>
 
 <div id="wrap_block_article" class="wow fadeInUp">
@@ -29,7 +29,7 @@ include '../includes/breadcrumbs.php';
 
       <br>
 
-      <div><img src="https://boiduongtuvanluat.com/luat-su-tranh-tung/img/tu-van-luat-trong-giai-doan-thi-hanh-an-dan-su.jpg" alt="" style="width: 100%;"></div>
+      <div><img src="img/tu-van-luat-trong-giai-doan-thi-hanh-an-dan-su.jpg" alt="" style="width: 100%;"></div>
 
       <br>
       <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Calibri",sans-serif;'><span style="font-size:15px;line-height:115%;">&nbsp;</span></p>
@@ -90,19 +90,19 @@ include '../includes/breadcrumbs.php';
       <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Calibri",sans-serif;'><span style='font-size:15px;line-height:115%;font-family:"Segoe UI Emoji",sans-serif;'>🏠</span><span style="font-size:15px;line-height:115%;">&nbsp;Số 3A đường Đồng Nai, Phường 2, Quận T&acirc;n B&igrave;nh, Th&agrave;nh phố Hồ Ch&iacute; Minh, Việt Nam</span></p>
       <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Calibri",sans-serif;'><span style='font-size:15px;line-height:115%;font-family:"Segoe UI Emoji",sans-serif;'>📱</span><span style="font-size:15px;line-height:115%;">&nbsp;079.72.99078</span></p>
       <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Calibri",sans-serif;'><span style='font-size:15px;line-height:115%;font-family:"Segoe UI Symbol",sans-serif;'>✉</span><span style="font-size:15px;line-height:115%;">&nbsp;</span><a href="mailto:lawtrainingcourses@gmail.com"><span style="font-size:15px;line-height:115%;">lawtrainingcourses@gmail.com</span></a></p>
-      <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Calibri",sans-serif;'><span style='font-size:15px;line-height:115%;font-family:"Segoe UI Emoji",sans-serif;'>🌐</span><span style="font-size:15px;line-height:115%;">&nbsp;</span><a href="https://boiduongtuvanluat.com/"><span style="font-size:15px;line-height:115%;">https://boiduongtuvanluat.com/</span></a></p>
+      <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Calibri",sans-serif;'><span style='font-size:15px;line-height:115%;font-family:"Segoe UI Emoji",sans-serif;'>🌐</span><span style="font-size:15px;line-height:115%;">&nbsp;</span><a href="/"><span style="font-size:15px;line-height:115%;">https://boiduongtuvanluat.com/</span></a></p>
       <p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:115%;font-size:16px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
 
       <br>
 
-      <?php include '../includes/support.php'; ?>
+      <?php include './../includes/support.php'; ?>
     </div>
     <div id="content_right" class="kmt_orange kmt_border col-sticky col-lg-3 col-xs-12">
-      <?php include '../includes/news.php'; ?>
+      <?php include './../includes/news.php'; ?>
     </div>
   </div>
 </div>
 
 <?php
-include '../includes/footer.php';
+include './../includes/footer.php';
 ?>

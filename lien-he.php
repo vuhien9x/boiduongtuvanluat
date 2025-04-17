@@ -13,7 +13,7 @@ $pageContent = '
     <div class="callbacks">
       <ul class="rslides" id="slider4">
         <li>
-          <a href=""><img src="https://boiduongtuvanluat.com/img/banner_intro.jpg" alt="Banner trang intro" title="Banner trang intro" /></a>
+          <a href=""><img src="img/banner_intro.jpg" alt="Banner trang intro" title="Banner trang intro" /></a>
         </li>
       </ul>
     </div>
@@ -35,13 +35,13 @@ $pageContent = '
         <div class="row">
           <div class="col-lg-6 col-xs-12 wrap_add">
             <h3>TRUNG TÂM ĐÀO TẠO TƯ VẤN DOANH NGHIỆP BLT</h3>
-            <p><img alt="" src="https://boiduongtuvanluat.com/img/lien-he/location.png" style="height:37px; width:37px" />&nbsp;3A đường Đồng Nai
+            <p><img alt="" src="img/lien-he/location.png" style="height:37px; width:37px" />&nbsp;3A đường Đồng Nai
               phường 2 quận Tân Bình , Ho Chi Minh City, Vietnam</p>
-            <p><img alt="" src="https://boiduongtuvanluat.com/img/lien-he/tel.png" style="height:37px; width:37px" />&nbsp;079.72.99078</p>
-            <p><img alt="" src="https://boiduongtuvanluat.com/img/lien-he/mail.png"
+            <p><img alt="" src="img/lien-he/tel.png" style="height:37px; width:37px" />&nbsp;079.72.99078</p>
+            <p><img alt="" src="img/lien-he/mail.png"
                 style="height:37px; width:37px" />&nbsp;lawtrainingcourses@gmail.com</p>
-            <p><img alt="" src="https://boiduongtuvanluat.com/img/lien-he/web.png"
-                style="height:37px; width:37px" />&nbsp;https://boiduongtuvanluat.com/</p>
+            <p><img alt="" src="img/lien-he/web.png"
+                style="height:37px; width:37px" />&nbsp;https://boiduongtuvanluat.com</p>
           </div>
 
           <script src="https://www.google.com/recaptcha/api.js?hl=vi"></script>
@@ -51,7 +51,7 @@ $pageContent = '
             <p>Quý Khách cần liên hệ tư vấn hay đăng ký dịch vụ vui lòng quét mã QR bên dưới để được hỗ trợ trên zalo
             </p>
             <div style="text-align: center;">
-              <img src="https://boiduongtuvanluat.com/img/zalo-lienhe.jpg" alt="Liên hệ" style="width: 300px;">
+              <img src="img/zalo-lienhe.jpg" alt="Liên hệ" style="width: 300px;">
             </div>
           </div>
           <div class="col-xs-12 wrap_map">

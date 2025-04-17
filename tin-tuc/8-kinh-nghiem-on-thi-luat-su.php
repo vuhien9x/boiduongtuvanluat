@@ -1,25 +1,25 @@
 <?php
 $pageTitle = '8 KINH NGHIỆM ÔN THI LUẬT SƯ';
-include '../includes/head.php';
+include './../includes/head.php';
 ?>
 
-<?php include '../includes/header.php'; ?>
+<?php include './../includes/header.php'; ?>
 
 <div id="wrap_block_2">
   <?php
-  include '../includes/navbar.php';
+  include './../includes/navbar.php';
   ?>
 </div>
 
 <?php
-$img = 'https://boiduongtuvanluat.com/img/tin-tuc.jpg';
-include '../includes/banner.php';
+$img = './../img/tin-tuc.jpg';
+include './../includes/banner.php';
 ?>
 
 <?php
 $lever1 = 'Tin Tức';
 $lever2 = '8 KINH NGHIỆM ÔN THI LUẬT SƯ';
-include '../includes/breadcrumbs.php';
+include './../includes/breadcrumbs.php';
 ?>
 
 <div id="wrap_block_article" class="wow fadeInUp">
@@ -33,7 +33,7 @@ include '../includes/breadcrumbs.php';
 
       <br>
 
-      <div><img src="https://boiduongtuvanluat.com/tin-tuc/img/8-kinh-nghiem-on-thi-luat-su.jpg" alt="8 KINH NGHIỆM ÔN THI LUẬT SƯ" style="width: 100%;"></div>
+      <div><img src="img/8-kinh-nghiem-on-thi-luat-su.jpg" alt="8 KINH NGHIỆM ÔN THI LUẬT SƯ" style="width: 100%;"></div>
 
       <br>
 
@@ -42,10 +42,10 @@ include '../includes/breadcrumbs.php';
       <p> ⚖️ &#272;&acirc;y l&agrave; kinh nghi&#7879;m c&aacute; nh&acirc;n c&#7911;a m&igrave;nh, c&oacute; th&#7875; ch&#432;a &#273;&#7847;y &#273;&#7911; nh&#432;ng hy v&#7885;ng s&#7869; gi&uacute;p &iacute;ch cho c&aacute;c b&#7841;n trong k&#7923; thi s&#7855;p t&#7899;i. Ch&uacute;c c&aacute;c anh/ch&#7883;/em t&#7921; tin - b&igrave;nh t&#297;nh - &#273;&#7841;t k&#7871;t qu&#7843; t&#7889;t nh&#7845;t! 💪✨</p>
 
       <p>
-        <img src="https://boiduongtuvanluat.com/tin-tuc/img/8-kinh-nghiem-on-thi-luat-su-1.jpg" alt="8 KINH NGHIỆM ÔN THI LUẬT SƯ" style="width: 100%;">
+        <img src="img/8-kinh-nghiem-on-thi-luat-su-1.jpg" alt="8 KINH NGHIỆM ÔN THI LUẬT SƯ" style="width: 100%;">
       </p>
       <p>
-        <img src="https://boiduongtuvanluat.com/tin-tuc/img/8-kinh-nghiem-on-thi-luat-su-2.jpg" alt="8 KINH NGHIỆM ÔN THI LUẬT SƯ" style="width: 100%;">
+        <img src="img/8-kinh-nghiem-on-thi-luat-su-2.jpg" alt="8 KINH NGHIỆM ÔN THI LUẬT SƯ" style="width: 100%;">
       </p>
 
       <p>#&Ocirc;nThiLu&#7853;tS&#432; #H&agrave;nhTrangLu&#7853;tS&#432; #KinhNghi&#7879;mThiLu&#7853;t #Lu&#7853;tS&#432;T&#432;&#417;ngLai #H&#7885;cLu&#7853;t #K&#7923;ThiLu&#7853;tS&#432;</p>
@@ -55,11 +55,11 @@ include '../includes/breadcrumbs.php';
 
     </div>
     <div id="content_right" class="kmt_orange kmt_border col-sticky col-lg-3 col-xs-12">
-      <?php include '../includes/news.php'; ?>
+      <?php include './../includes/news.php'; ?>
     </div>
   </div>
 </div>
 
 <?php
-include '../includes/footer.php';
+include './../includes/footer.php';
 ?>
